@@ -4,23 +4,21 @@ Warning: Don’t blindly use my settings unless you know what that entails. Use 
 
 
 # Contents
-- vim (NeoVim) config
-  - Plugins are managed with vim-plug
-- tmux config: soon
-- git config
-- PowerShell config
 
-# Vim setup
+- vim (NeoVim) config : soon
+  - Plugins are managed with vim-plug
+- tmux config : soon
+- git config    
+- PowerShell config
+  - custom terminal echo ""
+  - aliases & url-aliases
+
+
+# Vim setup: soon
 Requires Neovim (>= 0.5)
 
-//vim-plug - A minimalist Vim plugin manager
-nvim-lspconfig - A collection of configurations for Neovim's built-in LSP
-nvim-treesitter - Treesitter configurations and abstraction layer for Neovim
-nvim-cmp - A completion plugin for neovim coded in Lua
-lspsaga.nvim - A light-weight LSP plugin based on Neovim built-in LSP with highly a performant UI
-nvim-lsp-installer - An LSP server installer It is used for installing an LSP server for Tailwind CSS
-telescope.nvim - A highly extendable fuzzy finder over lists
-defx.nvim - A file explorer
+- vim-plug - A minimalist Vim plugin manager
+
 
 # PowerShell setup (Windows)
 - Scoop - A command-line installer
