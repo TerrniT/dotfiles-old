@@ -1,5 +1,7 @@
 
 # Terrnit's dotfiles
+## version 1.0.0.2
+
 Warning: Don’t blindly use my settings unless you know what that entails. Use at your own risk!
 
 
@@ -30,5 +32,6 @@ Requires Neovim (>= 0.5)
 - PSFzf - Fuzzy finder
 
 # How to use
-
+- very soon
 # About me
+- very soon
