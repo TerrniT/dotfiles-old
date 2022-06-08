@@ -1,16 +1,16 @@
 
-#Terrnti's dotfiles
+# Terrnti's dotfiles
 Warning: Don’t blindly use my settings unless you know what that entails. Use at your own risk!
 
 
-#Contents
+# Contents
 vim (NeoVim) config
 Plugins are managed with vim-plug
 tmux config: soon
 git config
 PowerShell config
 
-#Vim setup
+# Vim setup
 Requires Neovim (>= 0.5)
 
 vim-plug - A minimalist Vim plugin manager
@@ -30,6 +30,7 @@ Terminal Icons - Folder and file icons
 PSReadLine - Cmdlets for customizing the editing environment, used for autocompletion
 z - Directory jumper
 PSFzf - Fuzzy finder
+
 # How to use
 
 # About me
