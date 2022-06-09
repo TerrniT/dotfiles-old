@@ -1,22 +1,25 @@
 
 # Terrnit's dotfiles
-## version 1.0.0.2
 
-Warning: Don’t blindly use my settings unless you know what that entails. Use at your own risk!
+```
+version 1.0.0.2
+```
+> Warning: Don’t blindly use my settings unless you know what that entails. 
+> Use at your own risk!
 
 
 # Contents
 
-- vim (NeoVim) config : soon
-  - Plugins are managed with vim-plug
-- tmux config : soon
-- git config    
-- PowerShell config
-  - custom terminal echo ""
-  - aliases & url-aliases
+
+Name | Description | State 
+--- | --- | --- 
+vim (NeoVim) | plugins are managed with wim-plug | soon
+tmux config | - | soon
+Git config | - | published
+PowerShell config | terminal `echo`, aliases $ more  | published
 
 
-# Vim setup: soon
+# Vim (NeoVim): in process
 Requires Neovim (>= 0.5)
 
 - vim-plug - A minimalist Vim plugin manager
