@@ -16,8 +16,8 @@ My name is **terrnit** and below you can evaluate my settings and configs that I
 If you have any questions, you can find me on these links. 
 
 - [Instagram](https://instagram/princess_slayrr)
-- <span style="color: #598392;font-weight: "bold" " >Telegram</span> @terrnit
-- <span style="color: #124559;font-weight: "800" ">Mail me</span>@terrnit.megaman@gmail.com
+- <span style="color: #598392" >Telegram</span> @terrnit
+- <span style="color: #124559">Mail me</span> @terrnit.megaman@gmail.com
 
 Good luck
 
