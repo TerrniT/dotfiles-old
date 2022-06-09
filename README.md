@@ -54,23 +54,23 @@ Windwos Terminal config | - | soon
 > I prefer to use [Powershell 7.0](https://github.com/PowerShell/PowerShell) in [Windows Terminal](https://github.com/microsoft/terminal)
 
 - [My Windows Terminal config][8]
-- [Scoop](1) - A command-line installer
-- [Git](2) for Windows
-- [Oh My Posh](3) - Prompt theme engine
-- [Terminal Icons](4) - Folder and file icons
-- [PSReadLine](5) - Cmdlets for customizing the editing environment, used for autocompletion
-- [z](6) - Directory jumper
-- [PSFzf](7) - Fuzzy finder
+- [Scoop][1] - A command-line installer
+- [Git][2] for Windows
+- [Oh My Posh][3] - Prompt theme engine
+- [Terminal Icons][4] - Folder and file icons
+- [PSReadLine][5] - Cmdlets for customizing the editing environment, used for autocompletion
+- [z][6] - Directory jumper
+- [PSFzf][7] - Fuzzy finder
 
 
-[1]: (https://scoop.sh/)
-[2]: (https://gitforwindows.org/)
-[3]: (https://ohmyposh.dev/)
-[4]: (https://github.com/devblackops/Terminal-Icons)
-[5]: (https://docs.microsoft.com/en-us/powershell/module/psreadline/?view=powershell-7.2)
-[6]: (https://www.powershellgallery.com/packages/z/1.1.13)
-[7]: (https://github.com/kelleyma49/PSFzf)
-[8]: (./.config/powershell/terrnit.omp.json)
+[1]: https://scoop.sh/
+[2]: https://gitforwindows.org/
+[3]: https://ohmyposh.dev/
+[4]: https://github.com/devblackops/Terminal-Icons
+[5]: https://docs.microsoft.com/en-us/powershell/module/psreadline/?view=powershell-7.2
+[6]: https://www.powershellgallery.com/packages/z/1.1.13
+[7]: https://github.com/kelleyma49/PSFzf
+[8]: ./.config/powershell/terrnit.omp.json
 
 
 
