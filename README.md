@@ -74,9 +74,9 @@ Windwos Terminal config |  | published
 [7]: https://github.com/kelleyma49/PSFzf
 [8]: ./.config/powershell/terrnit.omp.json
 
-# Mention: Add to path user config file: ./.config/powershell/user_profile.ps1
+<!-- Mention: Add to path user config file: ./.config/powershell/user_profile.ps1 --> 
 [9]: ./.config/powershell
-# Mention: Add help.md with thumb & screenshots which contains "How to use" or install
+<!-- Mention: Add help.md with thumb & screenshots which contains "How to use" or install -->
 [10]: ./.config/powershell
 
 # How to use: in process
