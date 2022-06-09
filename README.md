@@ -23,19 +23,19 @@ Good luck
 
 # Content
 
-1. vim (NeoWim) config 
+1. vim (NeoWim) config - done
 2. tmux config
 3. Git config
-4. PowerShell config
-5. Windows Terminal config
+4. PowerShell config - done
+
 
 
 
 
 Name | Description | State 
 --- | --- | --- 
-vim (NeoVim) | plugins are managed with wim-plug | soon
-tmux config |  | soon
+vim (NeoVim) | plugins are managed with wim-plug | Soon
+tmux config |  | Soon
 Git config |  | published
 PowerShell config | terminal `echo`, aliases $ more  | published
 Windwos Terminal config |  | published
@@ -53,7 +53,9 @@ Windwos Terminal config |  | published
 
 > I prefer to use [Powershell 7.0](https://github.com/PowerShell/PowerShell) in [Windows Terminal](https://github.com/microsoft/terminal)
 
-- [My Windows Terminal config][8]
+- [Windows Terminal config][10]
+	- [My Windows Terminal theme JSON][8]
+	- [Powershell user config][9] - Soon
 - [Scoop][1] - A command-line installer
 - [Git][2] for Windows
 - [Oh My Posh][3] - Prompt theme engine
@@ -72,7 +74,10 @@ Windwos Terminal config |  | published
 [7]: https://github.com/kelleyma49/PSFzf
 [8]: ./.config/powershell/terrnit.omp.json
 
-
+# Mention: Add to path user config file: ./.config/powershell/user_profile.ps1
+[9]: ./.config/powershell
+# Mention: Add help.md with thumb & screenshots which contains "How to use" or install
+[10]: ./.config/powershell
 
 # How to use: in process
 
