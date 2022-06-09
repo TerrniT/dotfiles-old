@@ -16,8 +16,8 @@ My name is **terrnit** and below you can evaluate my settings and configs that I
 If you have any questions, you can find me on these links. 
 
 - [Instagram](https://instagram/princess_slayrr)
-- [Add me in Telegram](@terrnit)
-- [Mail me](@terrnit.megaman@gmail.com)
+- **Add me in Telegram** [@terrnit]
+- **Mail me** [@terrnit.megaman@gmail.com]
 
 Good luck
 
