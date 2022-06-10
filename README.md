@@ -79,7 +79,7 @@ Windwos Terminal config |  | published
 <!-- Mention: Add help.md with thumb & screenshots which contains "How to use" or install -->
 [10]: ./.config/powershell
 
-#Monkeytype config
+# Monkeytype config
 
 > I usually train speed typing on [Monkeytype](https://monkeytype.com/) 
 
