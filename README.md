@@ -27,7 +27,7 @@ Good luck
 2. tmux config
 3. Git config
 4. PowerShell config - done
-
+5. Monkeytype config 
 
 
 
@@ -78,6 +78,12 @@ Windwos Terminal config |  | published
 [9]: ./.config/powershell
 <!-- Mention: Add help.md with thumb & screenshots which contains "How to use" or install -->
 [10]: ./.config/powershell
+
+#Monkeytype config
+
+> I usually train speed typing on [Monkeytype](https://monkeytype.com/) 
+
+### How to install config - Soon
 
 # How to use: in process
 
