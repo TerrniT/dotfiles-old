@@ -1,0 +1,38 @@
+{
+	"analytics-uuid": "45bb9897-0b77-4b18-b0ff-4d87c4fa7bff",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1648794545494
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "110862998976094752189",
+		"email": "terrnit.megaman@gmail.com",
+		"email_verified": true,
+		"at_hash": "q7HBzHeisv9UEodDLr4-Vg",
+		"iat": 1648794557,
+		"exp": 1648798157
+	},
+	"tokens": {
+		"expires_at": 1648798158329,
+		"access_token": "ya29.A0ARrdaM9kkX2RKWg053ZN63Lp88X8nbVwFiaEpEZa2kVrqJd2aZ1E3FeJo8l-stxEUSdZeeFDGqZ3PYJUWJnJdWRauo4bP2Lgv6z6v30T_UFm2xwVd1nQ_QJk5X9B3oD09Cr32rLoQReAhfqj7nJfQTArFebT1k2gbDGp",
+		"expires_in": 3599,
+		"refresh_token": "1//0ckU_yJdkrgzRCgYIARAAGAwSNwF-L9Irxk_lXqyoWl_86i3_E4wMawxj8iGaLPW0yCoXY5NMQ_j12_cAif_QoeAEcaOh-XLkdoA",
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform openid https://www.googleapis.com/auth/userinfo.email",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImNlYzEzZGViZjRiOTY0Nzk2ODM3MzYyMDUwODI0NjZjMTQ3OTdiZDAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEwODYyOTk4OTc2MDk0NzUyMTg5IiwiZW1haWwiOiJ0ZXJybml0Lm1lZ2FtYW5AZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJxN0hCekhlaXN2OVVFb2RETHI0LVZnIiwiaWF0IjoxNjQ4Nzk0NTU3LCJleHAiOjE2NDg3OTgxNTd9.dX-iygI4P8ncCKZyOy5n5uwOVEWt_jNRF2hITOEQHm2KMuaEIgFIcHp7wxJVPUvZliAPHqzD3c33qSwEJCPdj6Eu6ozZZhgQW1O09Q1FYIADaHSP_eIFXFDnUcew5qMi3XG2DeLBGcrBUh4-w1F0H7HFiRgxC0bibwZxrpF2KwhD7oxD2Jo4HGeyZi1cVw9wFEcl4Gb7NVapm5KoxPKbF-Pz-0opV1A3NwQpGEuUwiS_dxWPG53vv83cX265N-JX3Znhv9bil4Ohvb8gWWNsWzjQlPGSqI4IGy_SD3octELG8xNzGbgEQoKA7w8T3lnPPj3W1r4i8bscjGuzBQG14g"
+	},
+	"activeProjects": {
+		"C:\\Users\\super\\test-deploy\\myapp": "test-deploy-eac98"
+	},
+	"lastError": 1648795133333
+}
